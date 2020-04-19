@@ -24,7 +24,10 @@ public class calculator implements ActionListener{
 	JButton addButton;
 	JButton minButton;
 	JButton clearButton;
-	String oldValue;
+	String oldValue; 
+
+     boolean addsum;
+ 
 	
 	
 	
